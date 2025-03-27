@@ -1,2 +1,2 @@
 # TechWatch
-sistema de gestão de Computadores e perifericos
+sistema de inventario de TI
